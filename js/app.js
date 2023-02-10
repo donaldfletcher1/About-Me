@@ -1,10 +1,10 @@
-'use strict' 
+'use strict'; 
 
 
 
-let name = prompt("What is your name?")
+let userName = prompt("What is your name?")
 console.log("name.toUpperCase())")
-alert("Hello" +" name");
+alert("Hello" +" userName");
 
 let favFood = prompt("Do you like pizza?")
 alert("We love pizza")
